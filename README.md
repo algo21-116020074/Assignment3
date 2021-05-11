@@ -21,7 +21,9 @@ Result: AIC (8, 8)
 
 Therefore, ARIMA(8,1,8)
 
-```fig = model.plot_predict(5,4000)```
+```
+fig = model.plot_predict(5,4000)
+```
 
 ![image](https://user-images.githubusercontent.com/78721777/117769816-c36c6000-b266-11eb-9e10-91e98f85d599.png)
 
